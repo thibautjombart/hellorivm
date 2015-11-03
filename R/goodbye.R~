@@ -1,0 +1,5 @@
+
+goodbye.rivm <- function(x="RIVM"){
+    cat("Goodbye",x,"!\n")
+    return(invisible(NULL))
+}
